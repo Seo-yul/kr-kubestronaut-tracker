@@ -1,0 +1,839 @@
+{
+  "fetched_at": "2026-03-13T22:52:22.688334+09:00",
+  "total": 119,
+  "kubstronauts": [
+    {
+      "name": "Dongguk Seo",
+      "company": "ifinfo",
+      "golden": true,
+      "linkedin": "https://www.linkedin.com/in/dongguk-seo-76a457240/",
+      "github": "https://github.com/DongGuk-Seo"
+    },
+    {
+      "name": "Geonwoo Myeong",
+      "company": "MegazoneCloud",
+      "golden": true,
+      "linkedin": "https://www.linkedin.com/in/geonwoo-myeong/",
+      "github": null
+    },
+    {
+      "name": "Ilsun Choi",
+      "company": "CLOUDSECURITYLAB",
+      "golden": true,
+      "linkedin": "https://www.linkedin.com/in/ilsun-choi-6b6b8614a/",
+      "github": "https://github.com/gasbugs/"
+    },
+    {
+      "name": "Insu Kim",
+      "company": "Moreh",
+      "golden": true,
+      "linkedin": "https://www.linkedin.com/in/insukim1994",
+      "github": "https://github.com/ahinsutime"
+    },
+    {
+      "name": "Jaeho Park",
+      "company": "Hanwha Vision",
+      "golden": true,
+      "linkedin": "https://www.linkedin.com/in/jaeho-park-66153b209/",
+      "github": null
+    },
+    {
+      "name": "Jaesang Park",
+      "company": "SK Hynix",
+      "golden": true,
+      "linkedin": "https://www.linkedin.com/in/jsangpark-75450221a",
+      "github": "https://github.com/wotkddl21"
+    },
+    {
+      "name": "Kyungha Yu",
+      "company": "kt ds",
+      "golden": true,
+      "linkedin": "https://www.linkedin.com/in/kyungha-yu-a23a882ab/",
+      "github": null
+    },
+    {
+      "name": "Song Kim",
+      "company": "FPT",
+      "golden": true,
+      "linkedin": "https://www.linkedin.com/in/songkim1992",
+      "github": null
+    },
+    {
+      "name": "Taehun Kim",
+      "company": "Taehun Kim Software Lab",
+      "golden": true,
+      "linkedin": "https://www.linkedin.com/in/taehun-brian-kim",
+      "github": "https://github.com/Taehun"
+    },
+    {
+      "name": "Wonki Lee",
+      "company": "Microsoft",
+      "golden": true,
+      "linkedin": "https://www.linkedin.com/in/%EC%9B%90%EA%B8%B0-%EC%9D%B4-31851bb9/",
+      "github": null
+    },
+    {
+      "name": "홍한석(Hansuk Hong)",
+      "company": "KRAFTON Inc.",
+      "golden": true,
+      "linkedin": "https://www.linkedin.com/in/hansuk-hong-a5204ab5/",
+      "github": "https://github.com/flavono123"
+    },
+    {
+      "name": "Areum Choi",
+      "company": "t'order",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/areum-choi9",
+      "github": "https://github.com/reumachoi"
+    },
+    {
+      "name": "Beomseok Kim",
+      "company": "Samsung SDS",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/beomseok-kim-285a0b236",
+      "github": "https://github.com/xfrnk2"
+    },
+    {
+      "name": "Byungjun Kim",
+      "company": "Lunit",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/byungjun-kim-92776829b",
+      "github": "https://github.com/kingbj940429"
+    },
+    {
+      "name": "Cheolhwan Kim",
+      "company": "",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/cheolhwan-kim-823780185/",
+      "github": null
+    },
+    {
+      "name": "Choe Junseong",
+      "company": "",
+      "golden": false,
+      "linkedin": null,
+      "github": null
+    },
+    {
+      "name": "Daekwang Ryu",
+      "company": "Datasolution",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/dkr08",
+      "github": null
+    },
+    {
+      "name": "Dahun Kang",
+      "company": "KCB",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/seriouskang/",
+      "github": null
+    },
+    {
+      "name": "Dogyun Kim",
+      "company": "",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/%EB%8F%84%EA%B7%A0-%EA%B9%80-62ab45281/",
+      "github": null
+    },
+    {
+      "name": "Dohyun Kwon",
+      "company": "Hyundai Autoever",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/93dohyun/",
+      "github": null
+    },
+    {
+      "name": "Dongho Han",
+      "company": "SAMSUNG SDS",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/dongho-han-97465327/",
+      "github": "https://futurecreator.github.io/"
+    },
+    {
+      "name": "Donghwan Won",
+      "company": "Makinarocks",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/%EB%8F%99%ED%99%98-%EC%9B%90-4918741a1/",
+      "github": "https://github.com/pu4ro/"
+    },
+    {
+      "name": "Dongmin Han",
+      "company": "NAVER Cloud",
+      "golden": false,
+      "linkedin": "https://linkedin.com/in/dongbee-66226229a",
+      "github": null
+    },
+    {
+      "name": "Dongryeol Lee",
+      "company": "BespinGlobal",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/barracudabryan",
+      "github": "https://github.com/dragonme"
+    },
+    {
+      "name": "Eunmi Kim",
+      "company": "",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/eunmi-kim-03591a32a/",
+      "github": null
+    },
+    {
+      "name": "Geonhui Kim",
+      "company": "kt cloud",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/geonhui-kim/",
+      "github": "https://github.com/aoc55"
+    },
+    {
+      "name": "Gichul Hong",
+      "company": "Samsung Electronics",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/mdipok/",
+      "github": null
+    },
+    {
+      "name": "Giju Kang",
+      "company": "",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/gi-ju-kang-50203b202/",
+      "github": "https://github.com/apeltop"
+    },
+    {
+      "name": "Gilsang Cho",
+      "company": "GS Neotek",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/gilsang/",
+      "github": null
+    },
+    {
+      "name": "Gim Seongyeong",
+      "company": "t'order",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/krgsg/",
+      "github": null
+    },
+    {
+      "name": "Guangmin Cui",
+      "company": "Asiana IDT",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/cuigm85",
+      "github": "https://github.com/cuigm85"
+    },
+    {
+      "name": "Gyeongcheol Shin",
+      "company": "Independent Auditor",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/gyeongcheol-shin-6b1105260/",
+      "github": null
+    },
+    {
+      "name": "Hakjun Kim",
+      "company": "AhnLab CloudMate",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/kimhj4270/",
+      "github": null
+    },
+    {
+      "name": "Hankyo Jeong",
+      "company": "Shinhan DS",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/hankyo/",
+      "github": "https://github.com/tkfka1"
+    },
+    {
+      "name": "Heechul Kim",
+      "company": "Samsung SDS",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/heechul-kim",
+      "github": null
+    },
+    {
+      "name": "Hong Il Young",
+      "company": "MegazoneCloud",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/hong10",
+      "github": null
+    },
+    {
+      "name": "Honggi Go",
+      "company": "TABLE AI",
+      "golden": false,
+      "linkedin": null,
+      "github": null
+    },
+    {
+      "name": "Hoon Jo",
+      "company": "Megazone",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/hoonjo/",
+      "github": "https://github.com/SysNet4Admin"
+    },
+    {
+      "name": "Hyehun Lim",
+      "company": "Amazon Web Services",
+      "golden": false,
+      "linkedin": "https://kr.linkedin.com/in/harrylim0801",
+      "github": null
+    },
+    {
+      "name": "Hyeongju You",
+      "company": "Megazone Cloud",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/hyeongjuyou-ko",
+      "github": null
+    },
+    {
+      "name": "Hyeongjun Noh",
+      "company": "",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/형준-노-22a1b5326",
+      "github": "https://github.com/NOHHYEONGJUN"
+    },
+    {
+      "name": "Hyewon Jeong",
+      "company": "BespinGlobal",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/%ED%98%9C%EC%9B%90-%EC%A0%95-06156a243/",
+      "github": "https://github.com/Jeonghy0517"
+    },
+    {
+      "name": "Hyungchan Cho",
+      "company": "HYUNDAI MOBIS",
+      "golden": false,
+      "linkedin": null,
+      "github": null
+    },
+    {
+      "name": "Hyungyu Lee",
+      "company": "LINE Plus",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/hyungyu-lee-a3a861178/",
+      "github": "https://esot3ria.github.io/"
+    },
+    {
+      "name": "Hyunjin Kim",
+      "company": "Hana Bank",
+      "golden": false,
+      "linkedin": null,
+      "github": null
+    },
+    {
+      "name": "Hyunseung Jin",
+      "company": "",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/현승-진-2132b9270",
+      "github": null
+    },
+    {
+      "name": "Inhwan Hwang",
+      "company": "Microsoft",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/%EC%9D%B8%ED%99%98-%ED%99%A9-266022169/",
+      "github": "https://github.com/hellices"
+    },
+    {
+      "name": "Inwoo Choi",
+      "company": "",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/inwoo-choi-a460a5299",
+      "github": null
+    },
+    {
+      "name": "Jaehwan Suh",
+      "company": "",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/%EC%9E%AC%ED%99%98-%EC%84%9C-439000223/",
+      "github": "https://github.com/42jasuh"
+    },
+    {
+      "name": "Jaejin An",
+      "company": "HanaTI",
+      "golden": false,
+      "linkedin": null,
+      "github": null
+    },
+    {
+      "name": "Jaeyung Lee",
+      "company": "Samsung SDS",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/jaeyung1001/",
+      "github": "https://github.com/jaeyung1001"
+    },
+    {
+      "name": "Jang Hyunsuk",
+      "company": "Hana TI",
+      "golden": false,
+      "linkedin": null,
+      "github": null
+    },
+    {
+      "name": "Jang, Sung Il",
+      "company": "LG CNS",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/sungil-jang-2a3a5616a",
+      "github": null
+    },
+    {
+      "name": "Janghun Lee",
+      "company": "HongikIT",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/lee-james-818a051ba",
+      "github": "https://github.com/jangh-lee"
+    },
+    {
+      "name": "Jeehyun Moon",
+      "company": "Kbank",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/jh-moon",
+      "github": "https://github.com/solidcellaMoon"
+    },
+    {
+      "name": "Jehyeon Choi",
+      "company": "",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/linkucjh/",
+      "github": null
+    },
+    {
+      "name": "Jeong Jeho",
+      "company": "RapportLabs",
+      "golden": false,
+      "linkedin": null,
+      "github": null
+    },
+    {
+      "name": "Jeongdae Lee",
+      "company": "",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/glen0111",
+      "github": null
+    },
+    {
+      "name": "Jeongdo Lee",
+      "company": "KORAIL",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/jeongdo-lee",
+      "github": null
+    },
+    {
+      "name": "Jeonghoon Han",
+      "company": "LGUplus",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/%EC%A0%95%ED%9B%88-%ED%95%9C-53797322b/",
+      "github": null
+    },
+    {
+      "name": "Jeonghwan Sa",
+      "company": "",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/jeonghwan-sa",
+      "github": "https://github.com/John4Tune"
+    },
+    {
+      "name": "Jiho Lee",
+      "company": "Mondrian AI",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/dps0340/",
+      "github": "https://slowanalyst.github.io/"
+    },
+    {
+      "name": "Jihoon Gong",
+      "company": "Rapportlabs",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/mr-zero",
+      "github": null
+    },
+    {
+      "name": "Jingu Park",
+      "company": "SAMSUNG SDS",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/posts/%EC%9A%B8%ED%8A%B8%EB%9D%BC-%EB%A7%A4%EB%8B%88%EC%95%84-740520213_the-linux-foundation-%EC%9E%90%EA%B2%A9%EC%88%98%EB%A3%8C%EC%A6%9Dkubestronaut-activity-7296072405825794048-DCgH?utm_source=share&utm_medium=member_android&rcm=ACoAADYBEiAB6ezg7KZEGcZoAlZU0RYGTSljkxc",
+      "github": null
+    },
+    {
+      "name": "Jinhyeok Hong",
+      "company": "Innogrid",
+      "golden": false,
+      "linkedin": null,
+      "github": "https://ghdwlsgur.github.io"
+    },
+    {
+      "name": "Jini Park",
+      "company": "",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/%EC%A7%84%EC%9D%B4-%EB%B0%95-07569118b/",
+      "github": "https://github.com/jinnypark9393"
+    },
+    {
+      "name": "Jiwon Park",
+      "company": "Bistelligence",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/jiwon-park-a61845390",
+      "github": "https://github.com/jiwonp7747"
+    },
+    {
+      "name": "Jooho Lee",
+      "company": "Devsisters Corp.",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/joo-ho-lee",
+      "github": "https://github.com/etamong"
+    },
+    {
+      "name": "Joohwan Kim",
+      "company": "SK Shieldus",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/joohwan-kim-952430264",
+      "github": "https://github.com/K-JooHwan?tab=repositories"
+    },
+    {
+      "name": "Jua Song",
+      "company": "Mindwareworks",
+      "golden": false,
+      "linkedin": null,
+      "github": null
+    },
+    {
+      "name": "Jueun Yoon",
+      "company": "",
+      "golden": false,
+      "linkedin": null,
+      "github": null
+    },
+    {
+      "name": "Jung-Hyun, Shim",
+      "company": "BespinGlobal",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/정현-심-3b8279343",
+      "github": null
+    },
+    {
+      "name": "Junghyo Hwang",
+      "company": "",
+      "golden": false,
+      "linkedin": null,
+      "github": null
+    },
+    {
+      "name": "Jungil Choi",
+      "company": "CJ OliveNetworks",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/jungil-choi-803915365/",
+      "github": null
+    },
+    {
+      "name": "Jungkyu Park",
+      "company": "Microsoft",
+      "golden": false,
+      "linkedin": null,
+      "github": null
+    },
+    {
+      "name": "Junhee Park",
+      "company": "WINITECH  Co., Ltd",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/junhee-park-423539122",
+      "github": "https://github.com/devlos0322"
+    },
+    {
+      "name": "Junyeong Jang",
+      "company": "BespinGlobal",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/junyeong-jang96/",
+      "github": "https://github.com/junyeongjang"
+    },
+    {
+      "name": "Junyong Jang",
+      "company": "Hyundai Autoever",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/jjunyong/",
+      "github": "https://jjunyong.github.io/"
+    },
+    {
+      "name": "Junyong Kim",
+      "company": "GS Neotek",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/junyong-kim/",
+      "github": null
+    },
+    {
+      "name": "Juwon Ok",
+      "company": "Woori Bank",
+      "golden": false,
+      "linkedin": null,
+      "github": null
+    },
+    {
+      "name": "Kisung Yi",
+      "company": "Datadog",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/kisung-yi-a35b83127/",
+      "github": null
+    },
+    {
+      "name": "Kyeongjin Jeong",
+      "company": "InfoGrab",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/ralook-buildin",
+      "github": null
+    },
+    {
+      "name": "Kyungjin Park",
+      "company": "Broadcom",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/kyungjin-park/",
+      "github": null
+    },
+    {
+      "name": "Kyungmin Mo",
+      "company": "MegazoneCloud",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/kyungmin-mo-40296a318/",
+      "github": null
+    },
+    {
+      "name": "Kyungseo Oh",
+      "company": "Data-Dynamics",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/%EA%B2%BD%EC%84%9C-%EC%98%A4-1042382b4/",
+      "github": "https://github.com/kyeongseooh"
+    },
+    {
+      "name": "Lim Geon",
+      "company": "No Coments",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/geon-lim-2341aa282/",
+      "github": "https://github.com/"
+    },
+    {
+      "name": "Mingyu Kim",
+      "company": "Bespin Global",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/mingyu-kim-kr1996",
+      "github": null
+    },
+    {
+      "name": "Minse Park",
+      "company": "n3n",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/pms1030/",
+      "github": "https://github.com/pms1030/"
+    },
+    {
+      "name": "Minsoo Park",
+      "company": "BespinGlobal",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/minsoo-park-5bb1b930a",
+      "github": "https://github.com/PARKMINSOOO"
+    },
+    {
+      "name": "Minsun Yun",
+      "company": "Samsung SDS",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/minsunyun",
+      "github": "https://github.com/miinsun"
+    },
+    {
+      "name": "Minwoo Park",
+      "company": "",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/devops-minwoo-park/",
+      "github": "https://github.com/MinWooPark-dotcom"
+    },
+    {
+      "name": "Namgon Kim",
+      "company": "",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/calixia-kim-1260321a5",
+      "github": null
+    },
+    {
+      "name": "Sanguk Back",
+      "company": "Hyundai Autoever",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/sanguk-back/",
+      "github": "https://github.com/oogab"
+    },
+    {
+      "name": "Sangyun Lee",
+      "company": "",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/sangyun-lee-5a7783317",
+      "github": "https://github.com/falconlee236"
+    },
+    {
+      "name": "Sehyeong Kim",
+      "company": "Luxoft",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/sehyeong-kim",
+      "github": "https://github.com/ksh3490"
+    },
+    {
+      "name": "Seonghyun Hong",
+      "company": "InfoGrab",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/s3onghyun/",
+      "github": "https://github.com/s3onghyun"
+    },
+    {
+      "name": "Seonyeong Park",
+      "company": "",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/seonyeong-park-a99578238",
+      "github": null
+    },
+    {
+      "name": "Seoyul Yoon",
+      "company": "SK AX",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/yoon-seoyul/",
+      "github": "https://github.com/Seo-yul"
+    },
+    {
+      "name": "Seunghyeok Baek",
+      "company": "",
+      "golden": false,
+      "linkedin": null,
+      "github": null
+    },
+    {
+      "name": "Soojin Lee",
+      "company": "Megazone Soft",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/soojinoncloud",
+      "github": null
+    },
+    {
+      "name": "Suh Junmin",
+      "company": "Gabia Inc.",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/junmin-suh-75b33b173/",
+      "github": "https://github.com/LazyRichard"
+    },
+    {
+      "name": "Sunghoon Cho",
+      "company": "bespinglobal",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/%EC%84%B1%ED%9B%88-%EC%A1%B0-805162321/",
+      "github": "https://github.com/shooncho"
+    },
+    {
+      "name": "Sunghun Son",
+      "company": "InfoGrab",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/kaonmir",
+      "github": "https://github.com/kaonmir"
+    },
+    {
+      "name": "Sungmin Joe",
+      "company": "",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/sungmin-joe-a04817208/",
+      "github": null
+    },
+    {
+      "name": "Sungwook Cho",
+      "company": "",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/sungwookcho7",
+      "github": null
+    },
+    {
+      "name": "Taemoo Heo",
+      "company": "",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/taemoo-heo-a51170177",
+      "github": null
+    },
+    {
+      "name": "Uiseong Yu",
+      "company": "Kbank",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/uiseong-yu/",
+      "github": null
+    },
+    {
+      "name": "Wajhat Syed",
+      "company": "Dell Technologies",
+      "golden": false,
+      "linkedin": "https://linkedin.com/in/syedwaji",
+      "github": "https://github.com/Waji-97/Waji-97"
+    },
+    {
+      "name": "Woojin Na",
+      "company": "SAMSUNG SDS",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/woojin-na",
+      "github": "https://github.com/nowjean"
+    },
+    {
+      "name": "Yeongeun Seo",
+      "company": "",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/영은-서-8512661bb",
+      "github": null
+    },
+    {
+      "name": "Yesung Chae",
+      "company": "S2W",
+      "golden": false,
+      "linkedin": null,
+      "github": null
+    },
+    {
+      "name": "Yonghwan Choi",
+      "company": "Karrot",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/yany-choi",
+      "github": "https://yanychoi.github.io/"
+    },
+    {
+      "name": "Yoonho Hann",
+      "company": "Karrot",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/yoonho-hann",
+      "github": "https://github.com/hnnynh"
+    },
+    {
+      "name": "Youngho Jung",
+      "company": "",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/im-youngho/",
+      "github": null
+    },
+    {
+      "name": "Youngjin In",
+      "company": "Hyundai Autoever",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/%EC%98%81%EC%A7%84-%EC%9D%B8-a749ba343/",
+      "github": "https://github.com/geniein?tab=repositories"
+    },
+    {
+      "name": "Youngju Kim",
+      "company": "Upstage",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/%EC%98%81%EC%A3%BC-%EA%B9%80-2303b8214/",
+      "github": "https://github.com/youngju-up"
+    },
+    {
+      "name": "Youngseo Lee",
+      "company": "Samsung SDS",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/0seo",
+      "github": null
+    },
+    {
+      "name": "Youngsung Kim",
+      "company": "Bespinglobal",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/young-sung-kim-921381262",
+      "github": null
+    },
+    {
+      "name": "Yukyung Park",
+      "company": "BizTech i",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/yukyung-park-243856363",
+      "github": null
+    }
+  ]
+}
