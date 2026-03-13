@@ -4,13 +4,13 @@ Track Korean Kubstronauts and celebrate new ones for [CNCK (Cloud Native Communi
 
 ## What is a Kubestronaut?
 
-A **Kubestronaut** is someone who has earned all five CNCF Kubernetes certifications:
+A [**Kubestronaut**](https://www.cncf.io/training/kubestronaut/) is someone who has earned all five CNCF Kubernetes certifications:
 
-- **CKA** — Certified Kubernetes Administrator
-- **CKAD** — Certified Kubernetes Application Developer
-- **CKS** — Certified Kubernetes Security Specialist
-- **KCNA** — Kubernetes and Cloud Native Associate
-- **KCSA** — Kubernetes and Cloud Native Security Associate
+- [**CKA**](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) — Certified Kubernetes Administrator
+- [**CKAD**](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/) — Certified Kubernetes Application Developer
+- [**CKS**](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/) — Certified Kubernetes Security Specialist
+- [**KCNA**](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/) — Kubernetes and Cloud Native Associate
+- [**KCSA**](https://training.linuxfoundation.org/certification/kubernetes-and-cloud-native-security-associate-kcsa/) — Kubernetes and Cloud Native Security Associate
 
 A **Golden Kubestronaut** has achieved all five certifications *and* renewed them, demonstrating ongoing commitment to the Kubernetes ecosystem.
 
