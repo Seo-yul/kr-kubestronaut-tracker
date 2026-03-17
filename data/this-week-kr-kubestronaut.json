@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-03-13T22:52:22.688334+09:00",
-  "total": 119,
+  "fetched_at": "2026-03-17T11:32:40.469664+09:00",
+  "total": 120,
   "kubstronauts": [
     {
       "name": "Dongguk Seo",
@@ -785,6 +785,13 @@
       "golden": false,
       "linkedin": "https://www.linkedin.com/in/yany-choi",
       "github": "https://yanychoi.github.io/"
+    },
+    {
+      "name": "Yoojung Huh",
+      "company": "Samsung Electronics",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/yoojunghuh/",
+      "github": null
     },
     {
       "name": "Yoonho Hann",
