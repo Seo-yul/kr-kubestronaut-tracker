@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-03-17T11:32:40.469664+09:00",
-  "total": 120,
+  "fetched_at": "2026-03-24T06:28:33.346537+09:00",
+  "total": 123,
   "kubstronauts": [
     {
       "name": "Dongguk Seo",
@@ -241,10 +241,24 @@
       "github": "https://github.com/tkfka1"
     },
     {
+      "name": "Hayoung Kim",
+      "company": "",
+      "golden": false,
+      "linkedin": null,
+      "github": null
+    },
+    {
       "name": "Heechul Kim",
       "company": "Samsung SDS",
       "golden": false,
       "linkedin": "https://www.linkedin.com/in/heechul-kim",
+      "github": null
+    },
+    {
+      "name": "Heejin Kim",
+      "company": "",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/heejin-kim-9b7480140/",
       "github": null
     },
     {
@@ -785,6 +799,13 @@
       "golden": false,
       "linkedin": "https://www.linkedin.com/in/yany-choi",
       "github": "https://yanychoi.github.io/"
+    },
+    {
+      "name": "Yongwoo Kim",
+      "company": "",
+      "golden": false,
+      "linkedin": "https://www.linkedin.com/in/yongwoo-kim-b2a23a200?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+      "github": "https://ddukbg.github.io/ddukbg/"
     },
     {
       "name": "Yoojung Huh",
